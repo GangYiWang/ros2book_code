@@ -1,0 +1,9 @@
+install/
+build/
+log/
+bags/
+CMakeFiles/
+CMakeCache.txt
+*.out
+**/.vscode/
+**/.git/
